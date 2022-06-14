@@ -1,0 +1,388 @@
+@media (min-width:320px) and (max-width:575px){
+    nav ul{
+        background:#3E82FC;
+    }
+    #banner .banner-text h1 {
+        font-size: 40px;
+        width: auto;
+    }
+    #banner .banner-text p {
+        font-size: 22px;
+        width: auto;
+       
+    }
+    #banner .banner-img img {
+        width: 100%;
+        margin-top: 50px;
+    }
+    #banner .banner-text a {
+        margin-top: 10px;
+    }
+    #about-part {
+        margin-top: -501px;
+    
+    }
+    #about-part .item {
+        padding: 25px;
+    }
+    #safe-part {
+        margin-top: 80px;
+    
+    }
+    #safe-part img {
+        width: 100%;
+    }
+    #safe-part h1 {
+        font-size: 40px;
+        margin-top: 20px;
+        width: auto;
+    }
+    #safe-part .text img {
+        top: 73%;
+    
+        width: 15%;
+    }
+    #truste-part img {
+    
+        margin-top: 30px;
+       
+    }
+    #truste-part  .t-down {
+        margin-top: 0px;
+    }
+    #truste-part .title {
+        margin-bottom: -80px;
+    }
+    #enjoy-part h1 {
+        font-size:40px;
+        width: auto;
+    }
+    #enjoy-part .text img {
+        top: 81%;
+        width: 15%;
+    }
+    #enjoy-part img {
+        margin-top: 20px;
+        width: 100%;
+    }
+    #nature-part {
+        margin-top: 90px;
+    }
+    #nature-part img {
+      width: 100%;
+    }
+    #nature-part h1 {
+        font-size: 40px;
+        width: auto;
+    }
+    #nature-part .text img {
+        top: 83%;
+        width: 15%;
+
+    }
+    #review-part .main .shape {
+        position: absolute;
+        top: 50px;
+        left: 50px;
+        width: 15%;
+    }
+    #review-part .main p {
+        width: auto;
+      
+    }
+    #review-part {
+        margin-bottom: 100px;
+    }
+    #subscribe-part .title h2 {
+
+        width: auto;
+        
+    }
+    #subscribe-part {
+        padding-top: 100px;
+        padding-bottom: 0px;
+    }
+    #subscribe-part .title h3 {
+        width: auto;
+    
+    }
+    #subscribe-part input {
+        width: 100%;
+    }
+    #subscribe-part input::placeholder {
+        display: none;
+    }
+    footer {
+        padding-top: 100px;
+
+    }
+    footer h2 {
+        margin-top: 50px;
+    }
+}
+@media (min-width:576px) and (max-width:767px){
+    nav ul{
+        background:#3E82FC;
+    }
+    #banner .banner-text h1 {
+        font-size: 40px;
+        width: auto;
+    }
+    #banner .banner-text p {
+        font-size: 22px;
+        width: auto;
+       
+    }
+    #banner .banner-img img {
+        width: auto;
+        margin-top: 50px;
+    }
+    #banner .banner-text a {
+        margin-top: 10px;
+    }
+    #about-part {
+        margin-top: -501px;
+    
+    }
+    #about-part .item {
+        padding: 25px;
+    }
+    #about-part .item p {
+        width: auto;
+    }
+    #safe-part {
+        margin-top: 80px;
+    
+    }
+    #safe-part img {
+        width: auto;
+    }
+    #safe-part h1 {
+        font-size: 40px;
+        margin-top: 20px;
+        width: auto;
+    }
+    #safe-part .text img {
+        top: 73%;
+    
+        width: 15%;
+    }
+    #enjoy-part {
+        margin-top: 100px;
+        
+    }
+    #truste-part img {
+    
+        margin-top: 30px;
+       
+    }
+    #truste-part  .t-down {
+        margin-top: 0px;
+    }
+    #truste-part .title {
+        margin-bottom: -80px;
+    }
+    #enjoy-part h1 {
+        font-size:40px;
+        width: auto;
+    }
+    #enjoy-part .text img {
+        top: 81%;
+        width: 15%;
+    }
+    #enjoy-part img {
+        margin-top: 20px;
+        width:auto;
+    }
+    #review-part .main {
+
+        margin-top: 0px;
+    }
+    #nature-part {
+        margin-top: 90px;
+    }
+    #nature-part img {
+      width: 100%;
+    }
+    #nature-part h1 {
+        font-size: 40px;
+        width: auto;
+    }
+    #nature-part .text img {
+        top: 83%;
+        width: 15%;
+
+    }
+    #review-part .main .shape {
+        position: absolute;
+        top: 50px;
+        left: 50px;
+        width: 15%;
+    }
+    #review-part .main p {
+        width: auto;
+      
+    }
+    #review-part {
+        margin-bottom: 100px;
+    }
+    #subscribe-part .title h2 {
+
+        width: auto;
+        
+    }
+    #subscribe-part {
+        padding-top: 100px;
+        padding-bottom: 0px;
+    }
+    #subscribe-part .title h3 {
+        width: auto;
+    
+    }
+    #subscribe-part input {
+        width: 100%;
+    }
+    #subscribe-part input::placeholder {
+        display: none;
+    }
+    footer {
+        padding-top: 100px;
+
+    }
+    footer h2 {
+        margin-top: 50px;
+    }
+}
+@media (min-width:768px) and (max-width:991px){
+    nav ul{
+        background:#3E82FC;
+    }
+    #banner .banner-text h1 {
+        font-size: 40px;
+        width: auto;
+    }
+    #banner .banner-text p {
+        font-size: 22px;
+        width: auto;
+       
+    }
+    #banner .banner-img img {
+        width: 100%;
+        margin-top: 50px;
+    }
+    #banner .banner-text a {
+        margin-top: 10px;
+    }
+    #about-part {
+        margin-top: -501px;
+    
+    }
+    #about-part .item {
+        padding: 25px;
+    }
+    #about-part .item p {
+        width: auto;
+    }
+    #safe-part {
+        margin-top: 80px;
+    
+    }
+    #safe-part img {
+        width: 100%;
+    }
+    #safe-part h1 {
+        font-size: 40px;
+        margin-top: 20px;
+        width: auto;
+    }
+    #safe-part .text img {
+        top: 73%;
+    
+        width: 15%;
+    }
+    #enjoy-part {
+        margin-top: 100px;
+        
+    }
+    #truste-part img {
+    
+        margin-top: 30px;
+       
+    }
+    #truste-part  .t-down {
+        margin-top: 0px;
+    }
+    #truste-part .title {
+        margin-bottom: -80px;
+    }
+    #enjoy-part h1 {
+        font-size:40px;
+        width: auto;
+    }
+    #enjoy-part .text img {
+        top: 81%;
+        width: 15%;
+    }
+    #enjoy-part img {
+        margin-top: 20px;
+        width:100%;
+    }
+    #review-part .main {
+
+        margin-top: 0px;
+    }
+    #nature-part {
+        margin-top: 90px;
+    }
+    #nature-part img {
+      width: 100%;
+    }
+    #nature-part h1 {
+        font-size: 40px;
+        width: auto;
+    }
+    #nature-part .text img {
+        top: 83%;
+        width: 15%;
+
+    }
+    #review-part .main .shape {
+        position: absolute;
+        top: 50px;
+        left: 50px;
+        width: 15%;
+    }
+    #review-part .main p {
+        width: auto;
+      
+    }
+    #review-part {
+        margin-bottom: 100px;
+    }
+    #subscribe-part .title h2 {
+
+        width: auto;
+        
+    }
+    #subscribe-part {
+        padding-top: 100px;
+        padding-bottom: 0px;
+    }
+    #subscribe-part .title h3 {
+        width: auto;
+    
+    }
+    #subscribe-part input {
+        width: 100%;
+    }
+    #subscribe-part input::placeholder {
+        display: none;
+    }
+    footer {
+        padding-top: 100px;
+
+    }
+    footer h2 {
+        margin-top: 50px;
+    }
+}
