@@ -29,6 +29,9 @@
         margin-top: 80px;
     
     }
+    #safe-part p {
+        width: auto;
+    }
     #safe-part img {
         width: 100%;
     }
@@ -65,11 +68,17 @@
         margin-top: 20px;
         width: 100%;
     }
+    #enjoy-part p {
+      width: 100%;
+    }
     #nature-part {
         margin-top: 90px;
     }
     #nature-part img {
       width: 100%;
+    }
+    #nature-part p {
+        width: auto;
     }
     #nature-part h1 {
         font-size: 40px;
@@ -154,6 +163,9 @@
         margin-top: 80px;
     
     }
+    #safe-part p {
+        width: auto;
+    }
     #safe-part img {
         width: auto;
     }
@@ -170,6 +182,9 @@
     #enjoy-part {
         margin-top: 100px;
         
+    }
+    #enjoy-part p {
+       width: auto;
     }
     #truste-part img {
     
@@ -200,6 +215,9 @@
     }
     #nature-part {
         margin-top: 90px;
+    }
+    #nature-part p {
+       width: auto;
     }
     #nature-part img {
       width: 100%;
