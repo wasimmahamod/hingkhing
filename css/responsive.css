@@ -2,12 +2,16 @@
     nav ul{
         background:#3E82FC;
     }
+    #banner {
+        padding-top: 150px;
+        padding-bottom: 550px;
+    }
     #banner .banner-text h1 {
         font-size: 40px;
         width: auto;
     }
     #banner .banner-text p {
-        font-size: 22px;
+        font-size: 18px;
         width: auto;
        
     }
@@ -17,6 +21,7 @@
     }
     #banner .banner-text a {
         margin-top: 10px;
+        padding: 5px 20px;
     }
     #about-part {
         margin-top: -501px;
@@ -25,18 +30,28 @@
     #about-part .item {
         padding: 25px;
     }
+    #about-part h1 {
+        font-size: 16px;
+
+    }
     #safe-part {
         margin-top: 80px;
     
     }
     #safe-part p {
         width: auto;
+        font-size: 18px;
+    }
+    #safe-part a {
+
+        padding: 5px 20px;
+       
     }
     #safe-part img {
         width: 100%;
     }
     #safe-part h1 {
-        font-size: 40px;
+        font-size: 28px;
         margin-top: 20px;
         width: auto;
     }
@@ -48,6 +63,7 @@
     #truste-part img {
     
         margin-top: 30px;
+        width: 60%;
        
     }
     #truste-part  .t-down {
@@ -56,8 +72,12 @@
     #truste-part .title {
         margin-bottom: -80px;
     }
+    #enjoy-part {
+        margin-top: 100px;
+ 
+    }
     #enjoy-part h1 {
-        font-size:40px;
+        font-size:28px;
         width: auto;
     }
     #enjoy-part .text img {
@@ -69,8 +89,15 @@
         width: 100%;
     }
     #enjoy-part p {
-      width: 100%;
+      width: auto;
+      font-size: 18px;
     }
+    #enjoy-part a {
+        
+        padding: 5px 20px;
+    }
+
+        
     #nature-part {
         margin-top: 90px;
     }
@@ -81,13 +108,20 @@
         width: auto;
     }
     #nature-part h1 {
-        font-size: 40px;
+        font-size: 28px;
         width: auto;
     }
     #nature-part .text img {
         top: 83%;
         width: 15%;
 
+    }
+    #review-part .title h1 {
+        font-size: 28px;
+        
+    }
+    #review-part .review-slider{
+        top:-140px
     }
     #review-part .main .shape {
         position: absolute;
@@ -100,10 +134,10 @@
       
     }
     #review-part {
-        margin-bottom: 100px;
+        margin-bottom: 0px;
     }
     #subscribe-part .title h2 {
-
+        font-size: 28px;
         width: auto;
         
     }
@@ -124,6 +158,15 @@
     footer {
         padding-top: 100px;
 
+    }
+    footer .item p {
+        font-size: 18px;
+        width: auto;
+    }
+    footer  ul li {
+
+        margin-top: 10px;
+        
     }
     footer h2 {
         margin-top: 50px;
